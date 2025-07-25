@@ -1,0 +1,27 @@
+# Virtual environment
+venv310/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Model checkpoints
+*.ckpt
+
+# Environment and config
+.env
+
+# VS Code cache/config
+.vscode/
+.idea/
+.cache/
+
+# System files
+*.DS_Store
+
+# System-specific
+*.DS_Store
